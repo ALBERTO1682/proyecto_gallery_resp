@@ -271,6 +271,7 @@ section.articles2{
         gap: 20px;
         align-items: top;
         overflow: hidden;
+        position: relative;
         img {
             position: relative;
             max-width: 100%;
@@ -356,7 +357,7 @@ section.articles2{
 }
 section.imagenmap{
     min-height: 70vh;
-    background-image: url(../../img/Maps.png);
+    background-image: url(../img/Maps.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 200vh;
