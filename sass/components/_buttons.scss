@@ -28,9 +28,11 @@ div.botonesmap{
     display: flex;
     align-items: center;
 }
-a.button3:hover{
-    background-color: $color-black;
-}
-a.button3:hover a.button2{
+
+div:hover a.button2{
     background-color: $color-orange;
+}
+
+div:hover a.button3{
+    background-color: $color-black;
 }
