@@ -39,6 +39,14 @@ div.botonesmap {
   align-items: center;
 }
 
+a.button3:hover {
+  background-color: #151515;
+}
+
+a.button3:hover a.button2 {
+  background-color: #D5966C;
+}
+
 footer {
   background-color: #151515;
   color: #FFFFFF;
